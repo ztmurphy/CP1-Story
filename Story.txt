@@ -4,11 +4,12 @@ I fed my Fish
 I brushed my teeth
 I ate some food
 I went to School
-I took my Algebra Exit Exam
-I sat in a gym balcony
-I ate lunch
-I sat through a boring seventh period
-I slept through Academy
+Periods 1-3: I took my Algebra Exit Exam
+Periods 4:I sat in a gym balcony
+Periods 5:I ate lunch
+Periods 6:I sat through some presentations 
+Periods 7:I sat through a boring seventh period
+Periods 8:I slept through Academy
 I took the bus home
 I did homework
 I walked Finley
